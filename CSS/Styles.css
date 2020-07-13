@@ -1,0 +1,138 @@
+/**color pallet: https://colorhunt.co/palette/181018**/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  padding-top: 100px;
+  font-family: 'Sacramento', cursive;
+  font-size: 550%;
+  color: #3f4441;
+}
+
+h2 {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 2rem;
+  color: black;
+}
+
+h3 {
+  color: #888888;
+  font-size: 1rem;
+}
+
+.subtitulo {
+  margin: 0 auto 20px auto;
+  font-weight: normal;
+  font-size: 1rem;
+}
+
+p {
+  font-family: 'Yantramanav', sans-serif;
+}
+
+hr {
+  color: #dee3e2;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  width: 100px;
+}
+
+.top-container {
+  background-color: #ffe8df;
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 8%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 10%;
+  bottom: 45%;
+}
+.banner{
+  width: 50%;
+  margin: 0;
+}
+.middle-container {
+  margin: 30px;
+}
+
+.profile {
+  width: 40%;
+  margin: 50px auto 50px auto;
+}
+
+.profile-picture {
+  width: 200px;
+  margin-bottom: 0;
+}
+
+.skills {
+  margin: 60px 0 60px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.Dancer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Programmer {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  margin: 60px 0 60px 0;
+}
+
+.btn {
+  background-color: #ffe8df;
+  border: solid 1px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 25px;
+  margin: 20px 0 0 0;
+}
+
+.freelancer {
+  margin: 50px 0 0 0;
+}
+
+.i-do {
+  margin: 0 0 50px 0;
+}
+
+.bottom-container {
+  background-color: #ffbcbc;
+  padding: 30px 30px 10px 30px;
+}
+
+a {
+  color: #3f4441;
+  margin: 0 15px 0 15px;
+}
+
+.copyright {
+  font-size: .7rem;
+  margin-top: 40px;
+  margin-bottom: 0;
+}
